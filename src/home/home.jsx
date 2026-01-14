@@ -42,7 +42,7 @@ function Home(){
           </section>
 
           <section className="w-170 mx-auto bg-white shadow-md rounded-md p-8 -mt-12 max-sm:w-[90%]">
-            <div className="flex justify-start items-center gap-8 max-sm: flex-col">
+            <div className="flex justify-start items-center gap-8 max-sm:flex-col">
                 <div className="w-40 border-r border-[hsl(0,0%,48%,.2)] max-sm:border-b max-sm:border-r-0 max-sm:pb-2 max-sm:text-center max-sm:w-35">
                     <h2 className="text-2xl font-bold">$89,914</h2>
                     <span className="text-Gray-500 text-[14px]">of $100,000 backed</span>
